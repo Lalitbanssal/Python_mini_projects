@@ -17,7 +17,8 @@ This is a simple **Contact Management System** built using **core Python** — n
 
 ## 📁 File Structure
 
-📦 contact-manager/
+📦 Python_mini_projects/
 ├── database.txt # Stores all contact records
 ├── main.py # Main Python script
+├── LICENSE # MIT License
 └── README.md # Project documentation
